@@ -1,45 +1,15 @@
-# MAVERICK TEVES
+# Hi 👋, I'm Maverick
 
-**Software Developer · Student · Technology Enthusiast**
+### Software Developer · Student · Technology Enthusiast
 
-Building thoughtful digital experiences through code, creativity, and continuous learning.
+- 🔭 I'm currently working on **Personal and Client Base Projects**
 
----
+- 🌱 I'm currently learning **PostgreSQL and API**
 
-### ABOUT
+- 👯 I'm looking to collaborate on **UI and UX Developer**
 
-I'm a student and aspiring software developer with an interest in software engineering, web development, and building practical digital solutions.
+- 🤝 I'm looking for help with **Backend Design**
 
-I enjoy transforming ideas into functional applications, exploring new technologies, and refining my skills through hands-on projects.
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/android" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=androidstudio" alt="android" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/arduino" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=arduino" alt="arduino" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/babel" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=babel" alt="babel" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/figma" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=figma" alt="figma" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/illustrator" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=illustrator" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/java" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=java" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/kotlin" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=kotlin" alt="kotlin" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/photoshop" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=photoshop" alt="photoshop" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/postgresql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=postgres" alt="postgresql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/python" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=py" alt="python" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/sculpin" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="sculpin" width="40" height="40"/> </a></p>
 
-My approach is simple: write clean code, solve meaningful problems, and keep improving.
-
-### TECHNICAL SKILLS
-
-**Programming Languages**
-
-`Java` · `Python` · `JavaScript`
-
-**Web Technologies**
-
-`HTML5` · `CSS3`
-
-### WHAT I DO
-
-- **Development** — Building functional and user-focused applications.
-- **Web Design** — Creating clean, responsive, and intuitive interfaces.
-- **Problem Solving** — Applying logical thinking to real-world challenges.
-- **Continuous Learning** — Exploring tools, techniques, and better ways to build.
-
-### CURRENT FOCUS
-
-Strengthening my software development fundamentals, improving my web development skills, and building projects that reflect both technical ability and thoughtful design.
-
-### PHILOSOPHY
-
-> Good software is more than code.
-> It is clarity, purpose, and attention to detail.
-
----
-
-*Designed with intention. Built through iteration.*
