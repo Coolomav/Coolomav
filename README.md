@@ -1,4 +1,4 @@
-# Hi 👋, I'm Maverick
+# Hi 👋, I'm Mavey
 
 ### Software Developer · Student · Technology Enthusiast
 
